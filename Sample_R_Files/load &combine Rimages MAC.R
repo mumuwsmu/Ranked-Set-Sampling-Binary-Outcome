@@ -1,0 +1,23 @@
+
+ load("/Users/Mumu/Dropbox/Mumu/Research New/Data example/HPC Mar7 Edu Rimage/ed.srs.RData")
+ load("/Users/Mumu/Dropbox/Mumu/Research New/Data example/HPC Mar7 Edu Rimage/ed.srsNP.RData")
+ load("/Users/Mumu/Dropbox/Mumu/Research New/Data example/HPC Mar7 Edu Rimage/ed.clh3.RData")
+ load("/Users/Mumu/Dropbox/Mumu/Research New/Data example/HPC Mar7 Edu Rimage/ed.indh3p.05_v1.RData")
+ load("/Users/Mumu/Dropbox/Mumu/Research New/Data example/HPC Mar7 Edu Rimage/ed.indh3p.07_v1.RData")
+ load("/Users/Mumu/Dropbox/Mumu/Research New/Data example/HPC Mar7 Edu Rimage/ed.indh3p.09_v1.RData")
+ load("/Users/Mumu/Dropbox/Mumu/Research New/Data example/HPC Mar7 Edu Rimage/ed.indh3p.11_v1.RData")
+ load("/Users/Mumu/Dropbox/Mumu/Research New/Data example/HPC Mar7 Edu Rimage/ed.indh3p.05_v2.RData")
+ load("/Users/Mumu/Dropbox/Mumu/Research New/Data example/HPC Mar7 Edu Rimage/ed.indh3p.07_v2.RData")
+ load("/Users/Mumu/Dropbox/Mumu/Research New/Data example/HPC Mar7 Edu Rimage/ed.indh3p.09_v2.RData")
+ load("/Users/Mumu/Dropbox/Mumu/Research New/Data example/HPC Mar7 Edu Rimage/ed.indh3p.11_v2.RData")
+
+ load("/Users/Mumu/Dropbox/Mumu/Research New/Data example/HPC Mar7 Edu Rimage/ed.bothh3p.05_v1.RData")
+ load("/Users/Mumu/Dropbox/Mumu/Research New/Data example/HPC Mar7 Edu Rimage/ed.bothh3p.07_v1.RData")
+ load("/Users/Mumu/Dropbox/Mumu/Research New/Data example/HPC Mar7 Edu Rimage/ed.bothh3p.09_v1.RData")
+ load("/Users/Mumu/Dropbox/Mumu/Research New/Data example/HPC Mar7 Edu Rimage/ed.bothh3p.11_v1.RData")
+ load("/Users/Mumu/Dropbox/Mumu/Research New/Data example/HPC Mar7 Edu Rimage/ed.bothh3p.05_v2.RData")
+ load("/Users/Mumu/Dropbox/Mumu/Research New/Data example/HPC Mar7 Edu Rimage/ed.bothh3p.07_v2.RData")
+ load("/Users/Mumu/Dropbox/Mumu/Research New/Data example/HPC Mar7 Edu Rimage/ed.bothh3p.09_v2.RData")
+ load("/Users/Mumu/Dropbox/Mumu/Research New/Data example/HPC Mar7 Edu Rimage/ed.bothh3p.11_v2.RData")
+ 
+ save.image("/Users/Mumu/Dropbox/Mumu/Research New/Data example/HPC Mar7 Edu Rimage/all.ed.RData")
